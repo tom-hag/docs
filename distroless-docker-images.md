@@ -50,7 +50,7 @@ playlearn-api-backend   29.7MB
 
 ```
 
-which is much smaller than the alpine rust image
+which is much smaller than the [alpine rust image](https://hub.docker.com/layers/library/rust/1.85-alpine/images/sha256-813376c206852d4250641eb86720c04fd20fbc6547d1a030c93a45b22a1303a3)
 ```console
 ➜  api main ✗ docker images rust --format "table {{.Repository}}\t{{.Size}}"
 REPOSITORY   SIZE
