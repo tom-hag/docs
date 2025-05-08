@@ -43,9 +43,9 @@ ENTRYPOINT ["./api"]
  
  and yields the following image size:
  ```console
-➜  api main ✗ docker images playlearn-api-backend --format "table {{.Repository}}\t{{.Size}}"
+➜  api main ✗ docker images api --format "table {{.Repository}}\t{{.Size}}"
 REPOSITORY              SIZE
-api   29.7MB
+playlearn-api-backend   29.7MB
 
 
 ```
