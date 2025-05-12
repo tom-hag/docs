@@ -56,3 +56,5 @@ which is much smaller than the [alpine rust image](https://hub.docker.com/layers
 REPOSITORY   SIZE
 rust         874MB
 ```
+
+NOTE: since you get no extraneous dependencies - including a shell - distroless images are unwieldy during development and make debugging very difficult. They should be reserved for production use and when the size constraints are important.
