@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "6a49ec5139fc43f1",
+        "id": "7c4619c6015f5ddb",
         "type": "tabs",
         "children": [
           {
-            "id": "53d0b434f002e82a",
+            "id": "d6abdd6e9e5bfb5d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "distroless-docker-images.md",
+                "file": "ssm-ec2-not-connected.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "distroless-docker-images"
+              "title": "ssm-ec2-not-connected"
             }
           }
         ]
@@ -166,9 +166,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "53d0b434f002e82a",
+  "active": "d6abdd6e9e5bfb5d",
   "lastOpenFiles": [
+    "ecr.md",
+    "ssm-ec2-not-connected.md",
+    "rust-refs.md",
+    "rust-docker-images.md",
+    "rust-arc.md",
+    "openssl-in-docker-images.md",
+    "musl.md",
     "distroless-docker-images.md",
+    "Untitled",
+    "distroless-docker-images 1.md",
     "test.md"
   ]
 }

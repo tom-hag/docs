@@ -1,0 +1,1 @@
+[Arc](https://doc.rust-lang.org/std/sync/struct.Arc.html) is a rust standard-libary (`std::sync`) smart pointer that offers "thread-safe reference-counting"[^1](https://doc.rust-lang.org/std/sync/struct.Arc.html) and Stands for *Atomically Reference Counted*. Like other smart pointers in rust its data is stored in the heap.
